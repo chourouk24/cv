@@ -1,0 +1,59 @@
+body
+{
+    background: #CCC;
+    
+
+}
+
+#Header a:hover
+{
+    color: #6666FF;
+}
+#bg-img
+{
+    background: url('../img/port.jpg');
+    background-size: 30%;
+    background-repeat: no-repeat;
+    min-height: 500px;
+}
+#About
+{
+
+   margin-top: -240px; 
+}
+#About .fa
+{
+    color: #FFF;
+}
+
+#About span
+{
+    padding: 10px 20px 10px 20px;
+}
+#About hr
+{
+border-width: 3px;
+margin-top: 06px; 
+ }
+
+
+ #Skills span
+ {
+ padding: 10px 20px 10px 20px;
+ }
+ #Skills hr
+ {
+border-width: 3px;
+margin-top: 06px; 
+ }
+  #Contact span
+ {
+ padding: 10px 20px 10px 20px;
+ }
+ #Contact hr
+ {
+border-width: 3px;
+margin-top: 06px; 
+ }
+
+ 
